@@ -1,0 +1,7 @@
+D:\PGM\PGM2018\PathFinder\VertexMatch\bin\Release\VertexMatch.dll
+D:\PGM\PGM2018\PathFinder\VertexMatch\bin\Release\VertexMatch.pdb
+D:\PGM\PGM2018\PathFinder\VertexMatch\bin\Release\Where.dll
+D:\PGM\PGM2018\PathFinder\VertexMatch\bin\Release\Where.pdb
+D:\PGM\PGM2018\PathFinder\VertexMatch\obj\Release\VertexMatch.csprojResolveAssemblyReference.cache
+D:\PGM\PGM2018\PathFinder\VertexMatch\obj\Release\VertexMatch.dll
+D:\PGM\PGM2018\PathFinder\VertexMatch\obj\Release\VertexMatch.pdb

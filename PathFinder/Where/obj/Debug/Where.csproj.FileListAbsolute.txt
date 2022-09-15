@@ -1,0 +1,10 @@
+D:\PGM\PGM2018\HighWay\Where\bin\Debug\Where.dll
+D:\PGM\PGM2018\HighWay\Where\bin\Debug\Where.pdb
+D:\PGM\PGM2018\HighWay\Where\obj\Debug\Where.dll
+D:\PGM\PGM2018\HighWay\Where\obj\Debug\Where.pdb
+D:\PGM\PGM2018\HighWay\Where\obj\Debug\Where.csprojResolveAssemblyReference.cache
+D:\PGM\PGM2018\PathFinder\Where\bin\Debug\Where.dll
+D:\PGM\PGM2018\PathFinder\Where\bin\Debug\Where.pdb
+D:\PGM\PGM2018\PathFinder\Where\obj\Debug\Where.dll
+D:\PGM\PGM2018\PathFinder\Where\obj\Debug\Where.pdb
+D:\PGM\PGM2018\PathFinder\Where\obj\Debug\Where.csprojResolveAssemblyReference.cache

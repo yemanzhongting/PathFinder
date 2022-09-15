@@ -1,0 +1,4 @@
+D:\PGM\PGM2018\PathFinder\Where\bin\Release\Where.dll
+D:\PGM\PGM2018\PathFinder\Where\bin\Release\Where.pdb
+D:\PGM\PGM2018\PathFinder\Where\obj\Release\Where.dll
+D:\PGM\PGM2018\PathFinder\Where\obj\Release\Where.pdb

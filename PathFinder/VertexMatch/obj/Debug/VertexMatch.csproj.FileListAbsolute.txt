@@ -1,0 +1,14 @@
+D:\PGM\PGM2018\HighWay\VertexMatch\bin\Debug\VertexMatch.dll
+D:\PGM\PGM2018\HighWay\VertexMatch\bin\Debug\VertexMatch.pdb
+D:\PGM\PGM2018\HighWay\VertexMatch\obj\Debug\VertexMatch.csprojResolveAssemblyReference.cache
+D:\PGM\PGM2018\HighWay\VertexMatch\obj\Debug\VertexMatch.dll
+D:\PGM\PGM2018\HighWay\VertexMatch\obj\Debug\VertexMatch.pdb
+D:\PGM\PGM2018\HighWay\VertexMatch\bin\Debug\Where.dll
+D:\PGM\PGM2018\HighWay\VertexMatch\bin\Debug\Where.pdb
+D:\PGM\PGM2018\PathFinder\VertexMatch\bin\Debug\VertexMatch.dll
+D:\PGM\PGM2018\PathFinder\VertexMatch\bin\Debug\VertexMatch.pdb
+D:\PGM\PGM2018\PathFinder\VertexMatch\bin\Debug\Where.dll
+D:\PGM\PGM2018\PathFinder\VertexMatch\bin\Debug\Where.pdb
+D:\PGM\PGM2018\PathFinder\VertexMatch\obj\Debug\VertexMatch.csprojResolveAssemblyReference.cache
+D:\PGM\PGM2018\PathFinder\VertexMatch\obj\Debug\VertexMatch.dll
+D:\PGM\PGM2018\PathFinder\VertexMatch\obj\Debug\VertexMatch.pdb
